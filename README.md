@@ -4,7 +4,7 @@
 [Fullscreen View](https://raw.githubusercontent.com/ataunque/hospital_waitlist_dashboard/main/wait_list_dashboard.jpg) 
 ## Project Description
 
-The project is a data visualization initiative aimed at providing valuable insights into the waiting list data collected by the National Treatment Purchase Fund (NTPF) in Ireland. This project utilizes publicly available data on Inpatient, Day Case and Outpatient waiting lists to shed light on the state of healthcare accessibility in the country.
+Using publicly available data on Inpatient, Day Case and Outpatient hospital waiting lists to shed light on the state of healthcare accessibility in Ireland based on data collected by the [National Treatment Purchase Fund (NTPF)](https://www.ntpf.ie/home/nwld.htm) in accordance with the Department of Health.
 
 
 ### Business Case

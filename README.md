@@ -1,4 +1,4 @@
-# Hospital Wait Times Analysis in Ireland
+# Hospital Wait Lists Analysis in Ireland
 ![](wait_list_dashboard.jpg)
 
 [Fullscreen View](https://raw.githubusercontent.com/ataunque/hospital_waitlist_dashboard/main/wait_list_dashboard.jpg) 
